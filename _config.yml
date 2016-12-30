@@ -1,11 +1,11 @@
 # Site settings
-title: BreezeDeus
-email: breezedeus@163.com
-description: > # this means to ignore newlines until "baseurl:"
+title: ReidHolmes
+email: name.reidholmes@gmail.com
+description: '上善若水，厚德载物，人淡如菊。"Technology make the world a better place." 看得越多越沉默 但行好事，莫问前程'
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://breezedeus.github.io" # the base hostname & protocol for your site
-twitter_username: breezedeus
-github_username:  breezedeus
+url: "http://reidholmes.github.io" # the base hostname & protocol for your site
+twitter_username: namereidholmes
+github_username:  ReidHolmes
 
 # Build settings
 markdown: kramdown
