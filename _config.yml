@@ -10,7 +10,7 @@ github_username:  ReidHolmes
 # Build settings
 markdown: kramdown
 
-permalink: /:year/:month/:day/breezedeus-:title.html
+permalink: /:year/:month/:day/ReidHolmes-:title.html
 
 #gems: [mathml.jb]
 
