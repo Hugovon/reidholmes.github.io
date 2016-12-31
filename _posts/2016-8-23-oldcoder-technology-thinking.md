@@ -6,7 +6,6 @@ date:       2016-8-23 15:00:22
 categories:
 ---
 
-
 <p><strong>老码农的技术理想</strong></p>
 <div class="discussion-starting-comment">
 <div class="discussion-comment markdown-body">
